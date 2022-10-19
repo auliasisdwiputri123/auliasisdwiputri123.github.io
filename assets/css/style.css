@@ -169,7 +169,7 @@
 }
 
 .biojudul {
-    background-color: rgb(248, 252, 175);
+    background-color: rgb(253, 241, 241);
     border-width: medium;
     border: 5px;
     border-style: solid;
@@ -280,4 +280,38 @@
     .tag{
         width: 60%;
     }
+}
+.image-aulia{
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+}
+#aulia{
+    margin-top: 100px;
+}
+.card {
+    width: 100%;
+    height: auto;
+    grid-column: span 8;
+    margin-left: 150px;
+    margin-right: 150px;
+    border-radius: 15px;
+    box-shadow: 0 10px 10px rgba(0,0,0,.1);
+    padding: 10px 15px;
+  }
+.text-center{
+    margin-top: 40px;
+}
+  
+#tentang{
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+#keahlian{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+#pendidikan{
+    margin-bottom: 100px;
 }
